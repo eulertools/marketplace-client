@@ -1,0 +1,10 @@
+{
+    "extends": "tslint:recommended",
+    "rules": {
+      "curly": true
+    },
+    "jsRules": {
+      "curly": true
+    },
+    "rulesDirectory": []
+  }
