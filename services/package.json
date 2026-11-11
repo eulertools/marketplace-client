@@ -14,7 +14,7 @@
   "license": "ISC",
   "types": "lib/",
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "^3.49.0",
+    "@aws-sdk/client-dynamodb": "^3.1166.0",
     "@aws-sdk/util-dynamodb": "^3.49.0",
     "@babel/core": "^7.5.5",
     "@babel/node": "^7.5.5",
